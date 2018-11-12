@@ -1,2 +1,2 @@
 # JavaScriptProject_Calculator
-A example of JavaScriptProject from the book
+书上的例子,不用于商业用途
